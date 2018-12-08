@@ -51,3 +51,29 @@ Agility. Safer, easier, and faster to test and deploy changes to a small service
 ## Can you write a small Ruby based script/app that will get HTTP response times over 5 minutes from your location to https://gitlab.com?
 
 see `healthcheck.rb`.
+
+## Additional questions
+
+### QQ1: Do you have remote working experience?
+
+Not full time, however i did work remotely a few days a week at my previous job, and i have experience managing and working with remote co-workers in india, ukraine, and other timezones in the US.
+
+### QQ2: Are there any other languages you have significant experience in?
+
+yes. C#, Javascript are my 2 best languages. Also very interested in Scala, Rust, and Go.
+
+### QQ3: Can you describe your Chef and packaging experience?
+
+litte experience in Chef. Used it a while back (before i learned docker) to provision and configure a Splunk installation. This is a fairly complex application, but it has been a while.
+
+As far as other packaging, i am very familiar with Helm, Docker, NuGet/NPM, and other application and library packaging systems.
+
+### QQ4: Do you have an open source project that you own or contributed to that you feel particularly proud about?
+
+I'm currently working on a set of application block libraries for C#/aspnetcore and an application for discovering new musicians and albums that i'm excited to develop further.
+
+https://github.com/andycmaj/SerilogEventLogger
+
+https://github.com/andycmaj/musigraph
+
+I'm also quite proud of (from what i have found) building the first/only Splunk-on-kubernetes deployment: https://github.com/andycmaj/kubernetes-splunk
