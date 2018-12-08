@@ -74,6 +74,6 @@ I'm currently working on a set of application block libraries for C#/aspnetcore 
 
 https://github.com/andycmaj/SerilogEventLogger
 
-https://github.com/andycmaj/musigraph
+https://github.com/andycmaj/musigraph (can play with it at https://musigraph.app/)
 
 I'm also quite proud of (from what i have found) building the first/only Splunk-on-kubernetes deployment: https://github.com/andycmaj/kubernetes-splunk
