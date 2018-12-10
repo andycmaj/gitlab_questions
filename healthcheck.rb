@@ -65,5 +65,5 @@ sorted = ping_durations.sort_by { |duration| -duration }
 p99_cutoff_index = (sorted.length * 0.01).ceil
 
 puts "Average round-trip is #{avg(ping_durations)}"
-puts "p99 duration is #{avg(sorted[0..p99_cutoff_index])}"
+puts "p99 duration is #{sorted[p99_cutoff_index]}"
 puts "#{failure_count} pings failed"
